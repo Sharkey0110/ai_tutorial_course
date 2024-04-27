@@ -1,0 +1,11 @@
+as always npx and shad first npx shadcn-ui@latest init
+
+next step is root layout, tailwind config and global css fill with figma designs
+
+build up the majority of the routing structure because it should be planned in advance
+
+authentication should be next, wrap everything in the provider and the middleware  npm install @clerk/nextjs
+
+mongodb create project username password go to network access allow access click connect drivers get env add password to it and install mongodb and mongoose get all of the models done
+
+after you sort out user actions its time for webhooks :) so time to deploy on vercel.
