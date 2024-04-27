@@ -9,3 +9,15 @@ authentication should be next, wrap everything in the provider and the middlewar
 mongodb create project username password go to network access allow access click connect drivers get env add password to it and install mongodb and mongoose get all of the models done
 
 after you sort out user actions its time for webhooks :) so time to deploy on vercel.
+
+the github code goes:
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote set-url origin https://github.com/Sharkey0110/ai_tutorial_course.git
+git push -u origin main
+
+clerk dashboard webhook endpoint you know that get the secret
+install svix
+add endpoint to middleware public routes
